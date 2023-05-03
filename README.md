@@ -1,0 +1,1 @@
+# káromkodás generátor v2
